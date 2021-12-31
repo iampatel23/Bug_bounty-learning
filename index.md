@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Learn bug_Bounty_Hunting(365)
+### **What is Bug Bounty?**
+Bug bounty programs allow independent security researchers to report bugs to an organization and receive rewards or compensation. These bugs are usually security exploits and vulnerabilities, though they can also include process issues, hardware flaws, and so on.
+The reports are typically made through a program run by an independent third party like: ## [Hackerone] (https://www.hackerone.com/) and [BugCrowd] (https://www.bugcrowd.com/).
 
-You can use the [editor on GitHub](https://github.com/iampatel23/Bug_bounty-learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*Bug Hunting is a New way to earn money and learn cyber security.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to start and resources for learning:
+ There are tons of free resources to getting start in Bug Hunting
+  1 Youtube Channels:
+          [Hackersploit] (https://www.youtube.com/c/HackerSploit)
+          [LiveOverflow] (https://www.youtube.com/c/LiveOverflow)
+          [Nahamsec] (https://www.youtube.com/c/Nahamsec)
+ 
+ 
+ 2 Practice:
+        [TryHackme] (https://tryhackme.com)
+        [HackTheBox] (https://hackthebox.com)
+        [Port_Swigger_Academy] (https://portswigger.net/web-security)
+        
+  3 Bug Hunting Platforms:
+      ###hackerone.com
+      ###Bugcrowd.com
+      ###[Intigiti](https://www.intigriti.com/)
+      
+      
+      
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iampatel23/Bug_bounty-learning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation]([wayb.txt](https://github.com/iampatel23/Bug_bounty-learning/files/7796834/wayb.txt)) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
