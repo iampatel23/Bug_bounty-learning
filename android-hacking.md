@@ -1,3 +1,6 @@
+layout: page
+title: "android-hacking"
+permalink: /android-hacking/
 # here are some resources to start in Android Pentesting
 Blog for seting up env [blog](https://cobalt.io/blog/getting-started-with-android-application-security)
 
