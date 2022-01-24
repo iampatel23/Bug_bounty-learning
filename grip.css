@@ -11,3 +11,4 @@ white-space: pre-wrap !important;
 
 }
 
+body { border-width: 5px border-style: solid; border-color: blue;}
