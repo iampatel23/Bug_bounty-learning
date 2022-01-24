@@ -1,1 +1,7 @@
 .preview-page {margin-top: 8px !important;}
+white-space: pre-wrap !important;
+ white-space: -moz-pre-wrap !important; 
+white-space: -pre-wrap !important; 
+white-space: -o-pre-wrap !important; 
+word-wrap: break-word !important; 
+overflow: hidden !important;
