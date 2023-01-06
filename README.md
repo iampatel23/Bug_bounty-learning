@@ -1,4 +1,4 @@
-<kbd>W<kbd>
+
 ### Bug_bounty-learning <br/>
 Bug-Bounty-365
 With new year I am setting up new goals for myself in 2022.
@@ -23,4 +23,4 @@ Creating this repo to track my progress in cyber security.<br/>
 | 3. | [<ul><li> try hack me box</li> <li>bash scripting(~4 hrs)</li></ul>](/days/day3.md)
 | 4. | [<ul><li> Sqli lab Kontra </li> <li> Sqli lab Over the wire <li/><ul/>](/days/day4.md)
 
-<kbd>D<kbd>
+
